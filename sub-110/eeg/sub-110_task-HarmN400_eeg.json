@@ -1,0 +1,25 @@
+{
+
+ 
+  "TaskName": "HarmN400",
+
+  "EEGChannelCount": 32,
+
+  "EEGReference": "average of the left and right mastoids",
+
+  "RecordingType": "continuous",
+
+  "SamplingFrequency": 2048,
+
+  "EOGChannelCount": 4,
+
+  "ECGChannelCount": 0,
+
+  "EMGChannelCount": 0,
+
+  "SoftwareFilters": "n/a",
+
+  "PowerLineFrequency": 50
+
+
+}
